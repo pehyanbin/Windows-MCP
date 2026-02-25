@@ -65,3 +65,11 @@ Example prompt for AI:
 }
 ```
 */
+
+
+
+/*
+Some other source : 
+1. https://lobehub.com/mcp/cursortouch-windows-mcp 
+2. The official Github repo : https://github.com/CursorTouch/Windows-MCP 
+*/
